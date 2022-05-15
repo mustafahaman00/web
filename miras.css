@@ -1,0 +1,25 @@
+body {
+    background-image: url("../Pictures/Sehrim/halepantik.jpg");
+}
+
+.carousel {
+    
+    height:93vh;
+    /*width:100vw;*/
+    object-fit: cover;
+    }
+    
+.carousel-inner img {
+    
+    height:93vh;
+    width: 100vw;
+    object-fit: cover;
+    
+}
+.carousel-inner {
+    border-top: 3px #28a745 solid;;
+}
+.nav-link:hover{
+    color: whitesmoke!important;
+
+}
